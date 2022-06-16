@@ -1,3 +1,5 @@
+<img src="https://imgur.com/a/DoC0Lu6" style = "float:left">
+
 ## Estudante de Ciências da Computação
 Localizado em Curitiba, Paraná, Brasil
 
