@@ -30,7 +30,7 @@ Filosofia
 -Template de Vida Universitaria
 ```
 
-### Um poquinho mais sobre mim:
+### Um pouquinho mais sobre mim:
 - Passo meu tempo jogando
 - Sou fanatíco por filmes antigos
 - Extremamente interessado em I.A.
