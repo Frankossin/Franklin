@@ -14,7 +14,7 @@ Experiência Criativa: Navegando na Computação
 - Aplicativo web: site sobre cinema
 - Site Portifólio
 
-Raciocínio Algoritímico
+Raciocínio Algorítmico
 - Jogo da Matemática
 - Jokenpo
 - Jogo da Mémoria
