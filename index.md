@@ -1,6 +1,6 @@
 <p>
   <img src='https://i.imgur.com/Zr21mdd.png'>
-<p>
+<p/>
   
   
 ## Estudante de Ciências da Computação
