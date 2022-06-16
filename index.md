@@ -9,23 +9,23 @@ uma inteligência Artificial
 
 ### Projetos
 ```markdown
-Experiência Criativa: Navegando na Computação
+**Experiência Criativa: Navegando na Computação**
 - Jogo: GeneriKnight
 - Aplicativo: Py.edu
 - Aplicativo web: site sobre cinema
 - Site Portifólio
 
-Racíonio Algorítimico
+**Racíonio Algorítimico**
 - Jogo da Matemática
 - Jokenpo
 - Jogo da Mémoria
 
-Resolução de Problemas com Lógica Matemática
+**Resolução de Problemas com Lógica Matemática**
 -Detetive
 
-Fundamentos de Sistemas Ciberfísicos
+**Fundamentos de Sistemas Ciberfísicos**
 -Planejamento do Projeto Smart City
 
-Filosofia
+**Filosofia**
 -Template de Vida Universitaria
 ```
