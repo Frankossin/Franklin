@@ -1,29 +1,36 @@
-## Welcome to GitHub Pages
+## Estudante de Ciências da Computação
+Localizado em Curitiba, Paraná, Brasil
 
-You can use the [editor on GitHub](https://github.com/Frankossin/Franklin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Sobre Mim
+Tenho conhecimento em algumas linguagens como Html, JavaScript, PHP e principalmente Python.
+Tambem venho aprendendo Banco de Dados com MYSQL, possuo alguns projetos ja desenvolvidos e
+feitos para as matérias da faculdade, porém logo desejo começar o projeto que sonho, criar 
+uma inteligência Artificial
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Projetos
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Experiência Criativa: Navegando na Computação
+- Jogo: GeneriKnight
+- Aplicativo: Py.edu
+- Aplicativo web: site sobre cinema
+- Site Portifólio
 
-1. Numbered
-2. List
+### Racíonio Algorítimico
+- Jogo da Matemática
+- Jokenpo
+- Jogo da Mémoria
 
-**Bold** and _Italic_ and `Code` text
+### Resolução de Problemas com Lógica Matemática
+-Detetive
 
-[Link](url) and ![Image](src)
+### Fundamentos de Sistemas Ciberfísicos
+-Planejamento do Projeto Smart City
+
+### Filosofia
+-Template de Vida Universitaria
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
