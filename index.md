@@ -28,5 +28,4 @@ Fundamentos de Sistemas Ciberfísicos
 
 Filosofia
 -Template de Vida Universitaria
-
 ```
