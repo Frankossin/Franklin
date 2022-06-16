@@ -31,7 +31,7 @@ Filosofia
 ```
 
 ### Um poquinho mais sobre mim:
--Passo meu tempo jogando
--Sou fanatíco por filmes antigos
--Extremamente interessado em I.A.
--Amo Matemática
+- Passo meu tempo jogando
+- Sou fanatíco por filmes antigos
+- Extremamente interessado em I.A.
+- Amo Matemática
