@@ -1,6 +1,10 @@
 <p>
   <img src='https://i.imgur.com/Zr21mdd.png'>
+<<<<<<< HEAD
 </p>
+=======
+<p/>
+>>>>>>> b18e4daa20e300507766bc2d77d024b9853acbd1
   
   
 ## Estudante de Ciências da Computação
