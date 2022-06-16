@@ -9,8 +9,6 @@ uma inteligência Artificial
 
 ### Projetos
 ```markdown
-
-
 ### Experiência Criativa: Navegando na Computação
 - Jogo: GeneriKnight
 - Aplicativo: Py.edu
