@@ -1,12 +1,3 @@
----
-layout: default
----
-
-
-<p>
-  <img src='https://i.imgur.com/Zr21mdd.png'>
-</p>
-
 ## Estudante de Ciências da Computação
 Localizado em Curitiba, Paraná, Brasil
 
@@ -40,3 +31,7 @@ Filosofia
 ```
 
 ### Um poquinho mais sobre mim:
+-Passo meu tempo jogando
+-Sou fanatíco por filmes antigos
+-Extremamente interessado em I.A.
+-Amo Matemática
