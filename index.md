@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 <p>
   <img src='https://i.imgur.com/Zr21mdd.png'>
 </p>
@@ -33,3 +38,5 @@ Fundamentos de Sistemas Ciberfísicos
 Filosofia
 -Template de Vida Universitaria
 ```
+
+### Um poquinho mais sobre mim:
