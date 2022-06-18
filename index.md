@@ -12,11 +12,11 @@ Experiência Criativa: Navegando na Computação
 - Jogo: GeneriKnight
 - Aplicativo: Py.edu
 - Aplicativo web: site sobre cinema
-- Site Portifólio
+- Site Portfólio
 
 Raciocínio Algorítmico
 - Jogo da Matemática
-- Jokenpo
+- Jokenpô
 - Jogo da Mémoria
 
 Resolução de Problemas com Lógica Matemática
