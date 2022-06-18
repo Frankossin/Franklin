@@ -34,3 +34,6 @@ Filosofia
 - Sou fanático por filmes antigos
 - Extremamente interessado em I.A.
 - Amo Matemática
+
+### Formas de Contato
+- Email: franklin.j.bb.vieira@gmail.com
