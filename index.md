@@ -2,9 +2,8 @@
 Localizado em Curitiba, Paraná, Brasil
 
 ### Sobre Mim
-Tenho conhecimento em algumas linguagens como Html, JavaScript, PHP e principalmente Python.
-Também venho aprendendo Banco de Dados com MYSQL, possuo alguns projetos já desenvolvidos e feitos para as matérias da faculdade, porém logo desejo começar o projeto com o qual sonho, criar 
-uma inteligência Artificial.
+Tenho conhecimento em algumas linguagens como Html, JavaScript, MYSQL e principalmente em C e Python.
+Possuo alguns projetos já desenvolvidos e feitos para as matérias da faculdade, porém gostaria logo de começar um projeto sobre algo que amo como I.A ou Jogos.
 
 ### Projetos
 ```markdown
@@ -12,7 +11,6 @@ Experiência Criativa: Navegando na Computação
 - Jogo: GeneriKnight
 - Aplicativo: Py.edu
 - Aplicativo web: site sobre cinema
-- Site Portfólio
 
 Raciocínio Algorítmico
 - Jogo da Matemática
@@ -24,16 +22,16 @@ Resolução de Problemas com Lógica Matemática
 
 Fundamentos de Sistemas Ciberfísicos
 -Planejamento do Projeto Smart City
+-Criando um cliente e servidor usando sockets
 
-Filosofia
--Template de Vida Universitária
+
 ```
 
 ### Um pouquinho mais sobre mim:
-- Passo meu tempo jogando
+- Sou apaixonado por jogos, 
 - Sou fanático por filmes antigos
-- Extremamente interessado em I.A.
 - Amo Matemática
+- Vídeo: 
 
 ### Formas de Contato
 - Email: franklin.j.bb.vieira@gmail.com
