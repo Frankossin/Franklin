@@ -31,7 +31,7 @@ Fundamentos de Sistemas Ciberfísicos
 - Sou apaixonado por jogos, 
 - Sou fanático por filmes antigos
 - Amo Matemática
-- Vídeo: 
+- Vídeo: https://youtu.be/ccHuFDHpWZY
 
 ### Formas de Contato
 - Email: franklin.j.bb.vieira@gmail.com
